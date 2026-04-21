@@ -1,4 +1,6 @@
-on: push
+
+
+mv DockerFile Dockerfileon: push
 jobs:
   b:
     runs-on: ubuntu-latest
